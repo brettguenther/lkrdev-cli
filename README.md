@@ -32,7 +32,7 @@ uv run --with lkr-dev-cli[all] lkr auth login
 - Choose whether you want this login to use production or development mode
 - Give it a name
 
-You will be redirected to the Looker OAuth authorization page, click Allow. If you do not see an allow button, the [prerequisites](#prerequisites) were not done properly.
+You will be redirected to the Looker OAuth authorization page, click Allow. If you do not see an allow button, the [prerequisites](#oauth2-prerequisites) were not done properly.
 
 If everything is successful, you will see `Successfully authenticated!`. Test it with
 
